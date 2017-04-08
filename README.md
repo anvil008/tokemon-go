@@ -38,7 +38,7 @@ To run the rspec testbench
 
 ## Maintainers
 
-Anvil Palamattam [@anvil008](https://github.com/anvil008).
+[@anvil008](https://github.com/anvil008)
 
 ## Contribute
 
