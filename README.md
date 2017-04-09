@@ -1,6 +1,6 @@
 # Tokémon Go
 
-A ruby terminal game based off Pokémon Go!
+A ruby command line game based off Pokémon Go.
 
 ## How to Play
 
@@ -24,7 +24,7 @@ Catch Tokemon based on index
 game.catch(0)
 ```
 
-Move trainer  
+Move Trainer  
 ```
 game.trainer.move_forward  
 game.trainer.move_backward  
@@ -32,7 +32,7 @@ game.trainer.move_left
 game.trainer.move_right  
 ```
 
-View collection  
+View Trainer's Tokemon collection  
 ```
 game.trainer.view_collection
 ```
