@@ -10,22 +10,22 @@ irb -r './lib/game.rb'
 ```
 
 Create new game  
-```bash
+```
 game = Game.new
 ```
 
 Find Tokemons  
-```bash
+```
 game.find
 ```
 
 Catch Tokemon based on index  
-```bash
+```
 game.catch(0)
 ```
 
 Move trainer  
-```bash
+```
 game.trainer.move_forward  
 game.trainer.move_backward  
 game.trainer.move_left  
@@ -33,14 +33,14 @@ game.trainer.move_right
 ```
 
 View collection  
-```bash
+```
 game.trainer.view_collection
 ```
 
 ## Test Bench
 
 To run the rspec testbench  
-```bash
+```
 rspec
 ```
 
