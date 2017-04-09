@@ -4,7 +4,7 @@ A ruby terminal game based off Pokémon Go!
 
 ## How to Play
 
-Load the game.rb to irb in your favourite terminal  
+Load the game.rb in ruby shell using your favourite terminal  
 ```bash
 irb -r './lib/game.rb'  
 ```
