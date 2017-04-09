@@ -5,31 +5,44 @@ A ruby terminal game based off Pokémon Go!
 ## How to Play
 
 Load the game.rb to irb in your favourite terminal  
-`irb -r './lib/game.rb'`  
+```bash
+irb -r './lib/game.rb'  
+```
 
 Create new game  
-`game = Game.new`
+```bash
+game = Game.new
+```
 
 Find Tokemons  
-`game.find`
+```bash
+game.find
+```
 
 Catch Tokemon based on index  
-`game.catch(0)`
+```bash
+game.catch(0)
+```
 
 Move trainer  
-`game.trainer.move_forward`  
-`game.trainer.move_backward`  
-`game.trainer.move_left`  
-`game.trainer.move_right`  
+```bash
+game.trainer.move_forward  
+game.trainer.move_backward  
+game.trainer.move_left  
+game.trainer.move_right  
+```
 
 View collection  
-`game.trainer.view_collection`
+```bash
+game.trainer.view_collection
+```
 
 ## Test Bench
 
 To run the rspec testbench  
-`rspec`
-
+```bash
+rspec
+```
 
 ## To Do
 
