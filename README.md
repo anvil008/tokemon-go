@@ -1,4 +1,4 @@
-# Tokémon Go!
+# Tokémon Go
 
 A ruby terminal game based off Pokémon Go!
 
@@ -55,8 +55,7 @@ rspec
 
 ## Contribute
 
-Feel free to dive in! [Open an issue](https://github.com/anvil008/tokemons/issues/new) or submit PRs.
-
+Feel free to dive in! [Open an issue](https://github.com/anvil008/tokemons/issues/new) or submit PRs.  
 Tokémon follows the [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) Code of Conduct.
 
 ## License
