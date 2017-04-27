@@ -55,8 +55,9 @@ rspec
 
 ## Contribute
 
-Feel free to dive in! [Open an issue](https://github.com/anvil008/tokemons/issues/new) or submit PRs.  
-Tokémon follows the [Contributor Covenant](http://contributor-covenant.org/version/1/4/) Code of Conduct.
+Feel free to dive in! [Open an issue](https://github.com/anvil008/tokemon-go/issues/new) or submit PRs.  
+Tokémon Go follows the [Contributor Code of Conduct](code-of-conduct.md).  
+By participating in this project you agree to abide by its terms.
 
 ## License
 
