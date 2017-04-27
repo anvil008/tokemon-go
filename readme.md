@@ -60,4 +60,4 @@ Tokémon follows the [Contributor Covenant](http://contributor-covenant.org/vers
 
 ## License
 
-[MIT](LICENSE) © Anvil Palamattam
+[MIT](license.md) © Anvil Palamattam
